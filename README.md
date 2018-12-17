@@ -4,7 +4,12 @@ Um Aplicativo do: Curso Completo de Criação de Apps Android e iOS com Flutter 
 
 Aluno Leandro Inacio
 
-## Getting Started
+## Resumo
+
+Neste app foi visto, Scaffold, Appar, TextField, TextFormField, Decoration, ScrollView,
+RaisedButton, Controller, Icon, Formularios e validacoes.
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
